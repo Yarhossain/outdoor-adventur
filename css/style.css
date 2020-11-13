@@ -198,8 +198,9 @@ header{
 
 }
 .tour-img img{
-    padding: 10px 0px;
+    padding: 10px 10px;
     object-fit: cover;
+    border-radius: 20px;
     transition-duration: 0.5s;
 }
 .tour-img img:hover{
